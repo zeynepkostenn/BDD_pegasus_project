@@ -181,7 +181,7 @@ this.ScenarioInitialize(scenarioInfo);
  testRunner.And("\'.submit-button-container .info-form-submit-button\' objesine tıklanır.", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
 #line hidden
 #line 31
- testRunner.And("\'5\' saniye süre ile beklenir.", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
+ testRunner.And("\'2\' saniye süre ile beklenir.", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
 #line hidden
             }
             this.ScenarioCleanup();

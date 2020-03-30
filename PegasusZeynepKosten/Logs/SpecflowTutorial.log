@@ -1680,3 +1680,51 @@
 2020-03-30 21:02:35,502 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Aranılan element: By.CssSelector: .submit-button-container .info-form-submit-button
 2020-03-30 21:02:36,136 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Step :'5' saniye süre ile beklenir.
 2020-03-30 21:02:36,136 [NonParallelWorker] INFO BddSpecflow.StepDefinition - 5saniye bekleniyor... 
+2020-03-30 21:28:48,252 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Driver ayağa kalktı...
+2020-03-30 21:28:48,439 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Step :'.nxm2_select-nereden .select2-selection__arrow' objesine tıklanır.
+2020-03-30 21:28:48,444 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Parametre: .nxm2_select-nereden .select2-selection__arrow
+2020-03-30 21:28:51,633 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Aranılan element: By.CssSelector: .nxm2_select-nereden .select2-selection__arrow
+2020-03-30 21:28:52,732 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Step :'.select2-search__field' alanına "Ankara" yazılır.
+2020-03-30 21:28:52,756 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Parametre: .select2-search__field
+2020-03-30 21:28:53,584 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Aranılan element: By.CssSelector: .select2-search__field
+2020-03-30 21:28:54,832 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Aranılan element: By.CssSelector: .select2-search__field
+2020-03-30 21:28:55,399 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Step :'.nxm2_select-nereye .select2-selection__arrow' objesine tıklanır.
+2020-03-30 21:28:55,399 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Parametre: .nxm2_select-nereye .select2-selection__arrow
+2020-03-30 21:28:56,180 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Aranılan element: By.CssSelector: .nxm2_select-nereye .select2-selection__arrow
+2020-03-30 21:28:56,952 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Step :'.select2-search__field' alanına "Antalya" yazılır.
+2020-03-30 21:28:56,953 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Parametre: .select2-search__field
+2020-03-30 21:28:57,777 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Aranılan element: By.CssSelector: .select2-search__field
+2020-03-30 21:28:58,845 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Aranılan element: By.CssSelector: .select2-search__field
+2020-03-30 21:28:59,564 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Step :'#dp1' objesine tıklanır.
+2020-03-30 21:28:59,564 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Parametre: #dp1
+2020-03-30 21:29:00,422 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Aranılan element: By.CssSelector: #dp1
+2020-03-30 21:29:01,325 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Step :Gidiş için 30 Mayıs 2020 tarihi girilir
+2020-03-30 21:29:01,327 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Gidiş için Tarih: 30 Mayıs 2020
+2020-03-30 21:29:02,221 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Aranılan element: By.XPath: //*[@id='search-flight-datepicker-departure']/div/div[1]/div/div/span[2]
+2020-03-30 21:29:02,331 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Element Text :2020
+2020-03-30 21:29:03,213 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Aranılan element: By.XPath: //*[@id='search-flight-datepicker-departure']/div/div[1]/div/div/span[1]
+2020-03-30 21:29:03,258 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Element Text :Mart
+2020-03-30 21:29:04,001 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Aranılan element: By.XPath: //*[@id='search-flight-datepicker-departure']/div/div[2]/div/a
+2020-03-30 21:29:05,017 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Aranılan element: By.XPath: //*[@id='search-flight-datepicker-departure']/div/div[1]/div/div/span[1]
+2020-03-30 21:29:05,067 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Element Text :Nisan
+2020-03-30 21:29:05,816 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Aranılan element: By.XPath: //*[@id='search-flight-datepicker-departure']/div/div[2]/div/a
+2020-03-30 21:29:06,757 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Aranılan element: By.XPath: //*[@id='search-flight-datepicker-departure']/div/div[1]/div/div/span[1]
+2020-03-30 21:29:06,800 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Element Text :Mayıs
+2020-03-30 21:29:07,809 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Step :Dönüş için 27 Haziran 2020 tarihi girilir
+2020-03-30 21:29:07,809 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Dönüş için Tarih: 27 Haziran 2020
+2020-03-30 21:29:08,608 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Aranılan element: By.XPath: //*[@id='search-flight-datepicker-arrival']/div/div[2]/div/div/span[2]
+2020-03-30 21:29:08,652 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Element Text :2020
+2020-03-30 21:29:09,503 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Aranılan element: By.XPath: //*[@id='search-flight-datepicker-arrival']/div/div[2]/div/div/span[1]
+2020-03-30 21:29:09,556 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Element Text :Haziran
+2020-03-30 21:29:10,318 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Step :'#fligth-searh .nxm2_btn-dark_orange' objesine tıklanır.
+2020-03-30 21:29:10,318 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Parametre: #fligth-searh .nxm2_btn-dark_orange
+2020-03-30 21:29:11,070 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Aranılan element: By.CssSelector: #fligth-searh .nxm2_btn-dark_orange
+2020-03-30 21:29:23,184 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Step :'.availability-list .availability-list-item-content' objesine tıklanır.
+2020-03-30 21:29:23,184 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Parametre: .availability-list .availability-list-item-content
+2020-03-30 21:29:26,591 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Aranılan element: By.CssSelector: .availability-list .availability-list-item-content
+2020-03-30 21:29:28,282 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Step :'.departure-list .package-price' objesine tıklanır.
+2020-03-30 21:29:28,282 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Parametre: .departure-list .package-price
+2020-03-30 21:29:29,485 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Aranılan element: By.CssSelector: .departure-list .package-price
+2020-03-30 21:29:31,409 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Step :'.return-list .availability-list-item' objesine tıklanır.
+2020-03-30 21:29:31,410 [NonParallelWorker] INFO BddSpecflow.StepDefinition - Parametre: .return-list .availability-list-item
+2020-03-30 21:29:32,178 [NonParallelWorker] INFO BddSpecflow.Base.BasePage - Aranılan element: By.CssSelector: .return-list .availability-list-item
